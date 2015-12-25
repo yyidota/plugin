@@ -1,2 +1,1 @@
-# plugin
-some jquery plugin
+# 封装jquery插件
